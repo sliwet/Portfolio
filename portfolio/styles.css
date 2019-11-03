@@ -27,11 +27,13 @@ h3{
 }
 
 .rowhead{
+    padding: 15px;
     background-color: white;
 
 }
 
 .rowhead2{
+    padding: 5px;
     background-color: cornflowerblue;
 }
 
